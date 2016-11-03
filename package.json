@@ -1,0 +1,24 @@
+{
+  "name": "wix-git-practice-etc",
+  "version": "1.0.0",
+  "description": "This is just a test repo, for certain things we need to learn",
+  "main": "garbage.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zombiefruit/wix-git-practice-etc.git"
+  },
+  "keywords": [
+    "garbage",
+    "delete",
+    "crap"
+  ],
+  "author": "Kieran Williams",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Zombiefruit/wix-git-practice-etc/issues"
+  },
+  "homepage": "https://github.com/Zombiefruit/wix-git-practice-etc#readme"
+}
